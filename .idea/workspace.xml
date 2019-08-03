@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f27625c-e8c4-43d7-b5b8-25e4084d5a81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hw_001_Linux/hw_004_文本处理工具/文本处理工具.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_001_Linux/hw_002_基础命令/基础命令.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/hw_001_Linux/hw_002_基础命令/基础命令.pdf" afterDir="false" />
-    </list>
+    <list default="true" id="1f27625c-e8c4-43d7-b5b8-25e4084d5a81" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +10,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hw_001_Linux/hw_004_文本处理工具/文本处理工具.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hw_001_Linux/hw_005_vim编辑器/编辑器之神_vim的使用.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -63,6 +71,12 @@
               <item name="AutoOperation1908" type="462c0819:PsiDirectoryNode" />
               <item name="hw_001_Linux" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AutoOperation1908" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoOperation1908" type="462c0819:PsiDirectoryNode" />
+              <item name="hw_001_Linux" type="462c0819:PsiDirectoryNode" />
+              <item name="hw_005_vim编辑器" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -103,17 +117,17 @@
       <workItem from="1564579837141" duration="1958000" />
       <workItem from="1564584547387" duration="483000" />
       <workItem from="1564625576620" duration="2750000" />
-      <workItem from="1564756270549" duration="988000" />
+      <workItem from="1564756270549" duration="1111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6179000" />
+    <option name="totallyTimeSpent" value="6302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="793" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24927954" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24927954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -126,7 +140,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32991204" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32991204" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -199,6 +213,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hw_001_Linux/hw_004_文本处理工具/文本处理工具.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw_001_Linux/hw_005_vim编辑器/编辑器之神_vim的使用.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor />
