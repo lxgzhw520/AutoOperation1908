@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f27625c-e8c4-43d7-b5b8-25e4084d5a81" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/hw_001_Linux/hw_003_用户账户管理及权限/用户账户管理及权限.md" beforeDir="false" afterPath="$PROJECT_DIR$/hw_001_Linux/hw_003_用户账户管理及权限/用户账户管理及权限.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_001_Linux/hw_004_文本处理工具/文本处理工具.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_001_Linux/hw_002_基础命令/基础命令.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/hw_001_Linux/hw_002_基础命令/基础命令.pdf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +13,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hw_001_Linux/hw_004_文本处理工具/文本处理工具.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,19 +38,14 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="793" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -52,12 +62,6 @@
               <item name="AutoOperation1908" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoOperation1908" type="462c0819:PsiDirectoryNode" />
               <item name="hw_001_Linux" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoOperation1908" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoOperation1908" type="462c0819:PsiDirectoryNode" />
-              <item name="hw_001_Linux" type="462c0819:PsiDirectoryNode" />
-              <item name="hw_003_用户账户管理及权限" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -99,11 +103,12 @@
       <workItem from="1564579837141" duration="1958000" />
       <workItem from="1564584547387" duration="483000" />
       <workItem from="1564625576620" duration="2750000" />
+      <workItem from="1564756270549" duration="988000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5191000" />
+    <option name="totallyTimeSpent" value="6179000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="793" extended-state="0" />
@@ -121,7 +126,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32991204" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -187,6 +192,16 @@
           <first_editor relative-caret-position="58">
             <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
           </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw_001_Linux/hw_004_文本处理工具/文本处理工具.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
